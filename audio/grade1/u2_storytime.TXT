@@ -1,0 +1,24 @@
+Story Time
+故事时间
+Good morning!
+早上好！
+Touch your mouth.
+摸你的嘴巴。
+This is my mouth.
+这是我的嘴巴。
+Touch your ear.
+摸你的耳朵。
+This is my ear.
+这是我的耳朵。
+Touch your nose.
+摸你的鼻子。
+This is my nose.
+这是我的鼻子。
+Touch your face.
+摸你的脸。
+This is my face.
+这是我的脸。
+Touch your tail.
+摸你的尾巴。
+I have no tail.
+我没有尾巴。
